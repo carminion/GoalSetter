@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GoalSetter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome to my app!</string>
+    <string name="screen1prompt1">Welcome to GoalSetter!</string>
+    <string name="screen1prompt2">What do you wish to accomplish?</string>
+    <string name="screen1prompt3">I wish to... </string>
+    <string name="screen2prompt1">Outcome</string>
+    <string name="screen2prompt2">If you were to accomplish your goal, what would the outcome be? How would the outcome make you feel? </string>
+    <string name="visualize1"> Take a second to visualize the outcome. What would success feel like to you? </string>
+    <string name="visualize2"> Take a second to visualize the obstacle. What would it feel like to run into it? </string>
+    <string name="screen4prompt1"> What\'s a personal obstacle within yourself that could get in your way? </string>
+    <string name="screen6prompt1"> How would you tackle the obstacle? </string>
+    <string name="screen6prompt2"> How would you tackle the obstacle? Write a plan to tackle obstacle in if/then form. If (obstacle occurs), then (your plan of action) </string>
+    <string name="action_settings">Settings</string>
+    <string name="goallist"> Saved goals: </string>
+    <string name="complete">Congratulations! You\'ve completed inputting your goal!</string>
+
+</resources>

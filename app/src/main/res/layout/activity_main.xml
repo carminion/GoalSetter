@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.catrops.goals.goalsetter.MainActivity">
+
+
+    <include layout="@layout/content_main" />
+    <include layout="@layout/content_completion" />
+    <include layout="@layout/content_new_goal" />
+    <include layout="@layout/content_obstacle" />
+    <include layout="@layout/content_outcome" />
+    <include layout="@layout/content_plan" />
+    <include layout="@layout/content_saved_goals" />
+    <include layout="@layout/content_viz_obstacle" />
+    <include layout="@layout/content_viz_outcome" />
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>
